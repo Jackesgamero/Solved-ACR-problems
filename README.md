@@ -1,7 +1,7 @@
 # Solved-ACR-problems
 Validated solutions to some of the problems proposed on the website "Acepta el reto"
 
-Puedes comprobar mi perfil aqui:  [jackesgamero](https://www.aceptaelreto.com/user/profile.php?id=20371)
+User:  [jackesgamero](https://www.aceptaelreto.com/user/profile.php?id=20371)
 
 
 |Nº de problema  | Nombre del problema| Solución
