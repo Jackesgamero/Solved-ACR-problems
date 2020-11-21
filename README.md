@@ -3,6 +3,7 @@ Validated solutions to some of the problems proposed on the website [Acepta el r
 
 > User :  [jackesgamero](https://www.aceptaelreto.com/user/profile.php?id=20371)
 
+<br>
 
 |Nº de problema  | Enunciado| Solución
 |--|--|--|
