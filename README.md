@@ -1,7 +1,7 @@
 # Solved-ACR-problems
 Validated solutions to some of the problems proposed on the website [Acepta el reto](https://www.aceptaelreto.com/)
 
-> User :  [jackesgamero](https://www.aceptaelreto.com/user/profile.php?id=20371)
+> 👤 User :  [jackesgamero](https://www.aceptaelreto.com/user/profile.php?id=20371)
 
 <br>
 
