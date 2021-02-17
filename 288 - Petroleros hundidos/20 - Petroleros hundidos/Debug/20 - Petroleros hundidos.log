@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Jaime Martinez\Documents\GitHub\MARP-I\Ejercicos Juez\3 - Grafos\20 - Petroleros hundidos\20 - Petroleros hundidos\Source.cpp(84,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Jaime Martinez\Documents\GitHub\MARP-I\Ejercicos Juez\3 - Grafos\20 - Petroleros hundidos\20 - Petroleros hundidos\Source.cpp(95,9): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Jaime Martinez\Documents\GitHub\MARP-I\Ejercicos Juez\3 - Grafos\20 - Petroleros hundidos\20 - Petroleros hundidos\Source.cpp(49,7): warning C4101: 'casilla': variable local sin referencia
+  20 - Petroleros hundidos.vcxproj -> C:\Users\Jaime Martinez\Documents\GitHub\MARP-I\Ejercicos Juez\3 - Grafos\20 - Petroleros hundidos\Debug\20 - Petroleros hundidos.exe

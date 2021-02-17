@@ -1,0 +1,2 @@
+C:\Users\Jaime Martinez\Documents\GitHub\MARP-I\Ejercicos Juez\2 - Colas de prioridad\04 - Unidad curiosa de monitorizacion\Debug\Unidad curiosa de monitorizacion.exe.lastcodeanalysissucceeded
+C:\Users\Jaime Martinez\Documents\GitHub\MARP-I\Ejercicos Juez\2 - Colas de prioridad\04 - Unidad curiosa de monitorizacion\Unidad curiosa de monitorizacion\Debug\NativeCodeAnalysis.read.1.tlog

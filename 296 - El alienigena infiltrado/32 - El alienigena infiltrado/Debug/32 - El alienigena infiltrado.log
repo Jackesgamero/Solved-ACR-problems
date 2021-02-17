@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Jaime Martinez\Documents\GitHub\MARP-I\Ejercicos Juez\4 - Algoritmo voraz\32 - El alienigena infiltrado\32 - El alienigena infiltrado\Source.cpp(37,41): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Jaime Martinez\Documents\GitHub\MARP-I\Ejercicos Juez\4 - Algoritmo voraz\32 - El alienigena infiltrado\32 - El alienigena infiltrado\Source.cpp(43,10): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\Jaime Martinez\Documents\GitHub\MARP-I\Ejercicos Juez\4 - Algoritmo voraz\32 - El alienigena infiltrado\32 - El alienigena infiltrado\Source.cpp(44,18): warning C4018: '>=': no coinciden signed/unsigned
+  32 - El alienigena infiltrado.vcxproj -> C:\Users\Jaime Martinez\Documents\GitHub\MARP-I\Ejercicos Juez\4 - Algoritmo voraz\32 - El alienigena infiltrado\Debug\32 - El alienigena infiltrado.exe

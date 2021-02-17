@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Jaime Martinez\Documents\GitHub\MARP-I\Ejercicos Juez\3 - Grafos\11 - Los amigos de mis amigos son mis amigos\11 - Los amigos de mis amigos son mis amigos\Source.cpp(31,23): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\Jaime Martinez\Documents\GitHub\MARP-I\Ejercicos Juez\3 - Grafos\11 - Los amigos de mis amigos son mis amigos\11 - Los amigos de mis amigos son mis amigos\Source.cpp(42,23): warning C4018: '<': no coinciden signed/unsigned
+  11 - Los amigos de mis amigos son mis amigos.vcxproj -> C:\Users\Jaime Martinez\Documents\GitHub\MARP-I\Ejercicos Juez\3 - Grafos\11 - Los amigos de mis amigos son mis amigos\Debug\11 - Los amigos de mis amigos son mis amigos.exe
