@@ -6,8 +6,8 @@ Validated solutions to some of the problems proposed on the website [Acepta el r
 <br>
 
 |Nº de problema  | Enunciado| Solución
-|--|--|--|
-| **139** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;| [**Numeros cubifinitos**](https://www.aceptaelreto.com/problem/statement.php?id=139) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;| [cpp](https://github.com/Jackesgamero/Solved-ACR-problems/blob/master/139%20-%20Numeros%20cubifinitos/Numeros_cubifinitos/Main.cpp)| | |
+|:---:|--|--|
+| **139** | [**Numeros cubifinitos**](https://www.aceptaelreto.com/problem/statement.php?id=139) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;| [cpp](https://github.com/Jackesgamero/Solved-ACR-problems/blob/master/139%20-%20Numeros%20cubifinitos/Numeros_cubifinitos/Main.cpp)| | |
 | **234** | [**Carreras de coches**](https://www.aceptaelreto.com/problem/statement.php?id=234) | [cpp]()| | |
 | **253** | [**Haciendo trampas en Serpientes y Escaleras**](https://www.aceptaelreto.com/problem/statement.php?id=253#:~:text=Si%20la%20ficha%20termina%20en,planteado%20no%20requiere%20ninguna%20destreza.) | [cpp]()| | |
 | **254** | [**Esquiando en Alaska**](https://www.aceptaelreto.com/problem/statement.php?id=254) | [cpp]()| | |
