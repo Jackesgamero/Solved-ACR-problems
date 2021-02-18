@@ -7,7 +7,7 @@ Validated solutions to some of the problems proposed on the website [Acepta el r
 
 |Nº de problema  | Enunciado| Solución
 |:---:|--|:---:|
-| **139** | [**Numeros cubifinitos**](https://www.aceptaelreto.com/problem/statement.php?id=139) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;| [cpp](https://github.com/Jackesgamero/Solved-ACR-problems/blob/master/139%20-%20Numeros%20cubifinitos/Numeros_cubifinitos/Main.cpp)| | |
+| **139** | [**Numeros cubifinitos**](https://www.aceptaelreto.com/problem/statement.php?id=139) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;| [cpp](https://github.com/Jackesgamero/Solved-ACR-problems/blob/master/Problemas/139%20-%20Numeros%20cubifinitos/Numeros_cubifinitos/Main.cpp)| | |
 | **234** | [**Carreras de coches**](https://www.aceptaelreto.com/problem/statement.php?id=234) | [cpp](https://github.com/Jackesgamero/Solved-ACR-problems/blob/master/Problemas/234%20-%20Carreras%20de%20coches/33%20-%20Carreras%20de%20coches/Source.cpp)| | |
 | **253** | [**Haciendo trampas en Serpientes y Escaleras**](https://www.aceptaelreto.com/problem/statement.php?id=253#:~:text=Si%20la%20ficha%20termina%20en,planteado%20no%20requiere%20ninguna%20destreza.) | [cpp](https://github.com/Jackesgamero/Solved-ACR-problems/blob/master/Problemas/253%20-%20Serpientes%20y%20escaleras/19%20-%20Serpientes%20y%20escaleras/Source.cpp)| | |
 | **254** | [**Esquiando en Alaska**](https://www.aceptaelreto.com/problem/statement.php?id=254) | [cpp](https://github.com/Jackesgamero/Solved-ACR-problems/blob/master/Problemas/254%20-%20Esquiando%20en%20Alaska/30%20-%20Esquiando%20en%20Alaska/Source.cpp)| | |
