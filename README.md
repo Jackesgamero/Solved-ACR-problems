@@ -5,8 +5,6 @@ Validated solutions to some of the problems proposed on the website [Acepta el r
 
 <br>
 
-<center>
-
 |Nº de problema  | Enunciado| Solución
 |:---:|--|:---:|
 | **ACR-116** | [**¡Hola mundo!**](https://www.aceptaelreto.com/problem/statement.php?id=116)| [cpp](https://github.com/Jackesgamero/Solved-ACR-problems/blob/master/Problemas/116%20-%20Hola%20Mundo/116%20-%20Hola%20Mundo/Source.cpp)| | |
@@ -46,4 +44,4 @@ Validated solutions to some of the problems proposed on the website [Acepta el r
 | **ACR-571** | [**Accidentes aéreos**](https://www.aceptaelreto.com/problem/statement.php?id=571)| [cpp](https://github.com/Jackesgamero/Solved-ACR-problems/blob/master/Problemas/571%20-%20Accidentes%20aereos/Accidentes_aereos/Main.cpp)| | |
 | **ACR-574** | [**Gritos en halloween**](https://www.aceptaelreto.com/problem/statement.php?id=574) | [cpp](https://github.com/Jackesgamero/Solved-ACR-problems/blob/master/Problemas/574%20-%20Gritos%20en%20halloween/Gritos%20en%20halloween/Source.cpp)| | |
 
-</center>
+
