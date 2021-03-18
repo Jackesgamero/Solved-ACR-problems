@@ -1,6 +1,8 @@
 # Solved-ACR-problems
 Validated solutions to some of the problems proposed on the website [Acepta el reto](https://www.aceptaelreto.com/)
 
+[![LICENSE](https://img.shields.io/badge/license-MIT-green)](https://mit-license.org/)
+
 > 👤 User :  [**jackesgamero**](https://www.aceptaelreto.com/user/profile.php?id=20371)
 
 <br>
