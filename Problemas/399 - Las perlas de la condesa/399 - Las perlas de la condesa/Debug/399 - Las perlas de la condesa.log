@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Jaime Martinez\Documents\GitHub\Solved-ACR-problems\Problemas\399 - Las perlas de la condesa\399 - Las perlas de la condesa\Source.cpp(19,30): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\Jaime Martinez\Documents\GitHub\Solved-ACR-problems\Problemas\399 - Las perlas de la condesa\399 - Las perlas de la condesa\Source.cpp(26,24): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\Jaime Martinez\Documents\GitHub\Solved-ACR-problems\Problemas\399 - Las perlas de la condesa\399 - Las perlas de la condesa\Source.cpp(26,39): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\Jaime Martinez\Documents\GitHub\Solved-ACR-problems\Problemas\399 - Las perlas de la condesa\399 - Las perlas de la condesa\Source.cpp(33,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Jaime Martinez\Documents\GitHub\Solved-ACR-problems\Problemas\399 - Las perlas de la condesa\399 - Las perlas de la condesa\Source.cpp(42,55): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\Jaime Martinez\Documents\GitHub\Solved-ACR-problems\Problemas\399 - Las perlas de la condesa\399 - Las perlas de la condesa\Source.cpp(43,35): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+  399 - Las perlas de la condesa.vcxproj -> C:\Users\Jaime Martinez\Documents\GitHub\Solved-ACR-problems\Problemas\399 - Las perlas de la condesa\Debug\399 - Las perlas de la condesa.exe

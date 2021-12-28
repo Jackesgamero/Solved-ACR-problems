@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Jaime Martinez\Documents\GitHub\Solved-ACR-problems\Problemas\249 - El burro y las alforjas\249 - El burro y las alforjas\Source.cpp(19,35): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Jaime Martinez\Documents\GitHub\Solved-ACR-problems\Problemas\249 - El burro y las alforjas\249 - El burro y las alforjas\Source.cpp(21,30): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Jaime Martinez\Documents\GitHub\Solved-ACR-problems\Problemas\249 - El burro y las alforjas\249 - El burro y las alforjas\Source.cpp(34,23): warning C4018: '<': no coinciden signed/unsigned
+  249 - El burro y las alforjas.vcxproj -> C:\Users\Jaime Martinez\Documents\GitHub\Solved-ACR-problems\Problemas\249 - El burro y las alforjas\Debug\249 - El burro y las alforjas.exe
